@@ -1,0 +1,1 @@
+For this "mini" project I will be deconstructing the Google homepage and rebuilding it. I will do this by applying all of my sparkly new HTML and CSS ~Kn0wL3dG3~. Hopefully I retained some of that from my freecodeCamp challenges. Here goes nothing!
