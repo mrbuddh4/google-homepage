@@ -1,0 +1,103 @@
+header {
+  font-size: 14px;
+}
+
+.header-left {
+  position: relative;
+  float: left;
+}
+
+.header-right {
+  position: relative;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+ }
+
+ul li{
+  display: inline;
+}
+
+li {
+  padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+}
+
+a:hover {
+  color: #808080;
+  text-decoration: underline;
+}
+
+.grid-icon {
+  width: 25px;
+}
+
+.sign-in {
+  background-color: #4484f1;
+  color: #FFFFFF;
+  border-style: hidden;
+  padding: 5px;
+  margin: 5px;
+}
+
+.logo {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+
+.search {
+  margin: 0;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.button {
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.magnify {
+  width: 25px;
+  margin: 0;
+  position: absolute;
+  top: 65%;
+  left: 42.5%;
+  transform: translate(-50%, -50%);
+}
+
+.footer-left {
+  position: relative;
+  float: left;
+  padding: 0.5em;
+}
+
+.footer-right {
+  position: relative;
+  float: right;
+  padding: 0.5em
+}
+
+.site-footer {
+  background-color: #f2f2f2;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: 14px;
+}
